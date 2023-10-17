@@ -1,24 +1,24 @@
 #Learning how to make the mood guessing game
 
-#import random
+import random
 
-#mood=(0)
+mood=(0)
 
-#print ("Hey there, i can guess how you feel")
+print ("Hey there, i can guess how you feel")
 
-#if mood == 1:
-  #print ("I can tell you are happy")
+if mood == 1:
+  print ("I can tell you are happy")
 
-#elif mood ==2:
-  #print ("I can tell you are sad")
+elif mood ==2:
+  print ("I can tell you are sad")
 
-#elif mood ==3 :
- # print ("I can tell you are angry")
+elif mood ==3 :
+  print ("I can tell you are angry")
 
-#else:
- # print ("I can't even tell how you feel")
+else:
+  print ("I can't even tell how you feel")
 
-#input("\n\n Press the enter key to exit the program")
+input("\n\n Press the enter key to exit the program")
 
 
 #The three year old simulator program
